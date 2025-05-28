@@ -1,28 +1,54 @@
-# CLONE DA NETFLIX
+# 🎬 Clone da Netflix
 
-procurei recriar a página inical da netflix, da forma mais fiel possivel!
+Projeto desenvolvido com o objetivo de replicar a página inicial da **Netflix**, buscando ser o mais fiel possível em termos de layout e funcionalidades visuais.
 
-## 🛠️ Construído com:
+## 🚀 Tecnologias utilizadas
 
-* [ReactJS](https://pt-br.reactjs.org/) - O framework web usado
-* [API](https://www.themoviedb.org/) - A API dos filmes
+- [Vite](https://vitejs.dev/) — Build tool ultra rápida
+- [ReactJS](https://pt-br.reactjs.org/) — Biblioteca para interfaces web
+- [Fetch API](https://developer.mozilla.org/pt-BR/docs/Web/API/Fetch_API) — Requisições HTTP nativas
+- [The Movie Database API (TMDB)](https://www.themoviedb.org/) — Fonte dos dados dos filmes e séries
 
-## 💭 Demonstração:
+## 💻 Demonstração
 
-*  página inicial🏠
-<img width='70%' src='./assets/netflix.png'/>
-*  exemplo de navegação🛶
-<img src='./assets/netflix-clone.gif'/>
-*  rodapé🙋🏻‍♂️
-<img width='70%' src='./assets/direitos.png'/>
+### 🏠 Página inicial  
+<img width="70%" src="./assets/netflix.png"/>
 
-## ✒️ Autores
+### 🧭 Exemplo de navegação  
+<img src="./assets/netflix-clone.gif"/>
 
-Individual.
+### 📜 Rodapé  
+<img width="70%" src="./assets/direitos.png"/>
 
-## 🎁 Expressões de gratidão
+## 🛠️ Funcionalidades
 
-* Grato pela atenção 📢;
+- Listagem dinâmica dos filmes e séries populares.
+- Carrossel horizontal navegável.
+- Informações consumidas diretamente da API TMDB.
+- Layout responsivo inspirado na Netflix.
 
----
-Feito com ❤️ por [Nailson Lima](https://github.com/nailsonlima)!!! 😊
+## 🔥 Como rodar localmente
+
+```bash
+# Clone o repositório
+git clone https://github.com/nailsonlima/netflix-react-clone
+
+# Acesse a pasta
+cd netflix-react-clone
+
+# Instale as dependências
+npm install
+
+# Rode o projeto
+npm run dev
+A aplicação irá abrir em http://localhost:5173/ no seu navegador.
+
+🤝 Contribuição:  
+Sinta-se à vontade para utilizar, melhorar e contribuir com este projeto. Toda sugestão é bem-vinda! 🚀
+
+👨‍💻 Autor:  
+Feito com dedicação por:
+Nailson Lima 🚀
+
+🎯 Agradecimento:  
+Obrigado por acessar este projeto! 💜
