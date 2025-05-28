@@ -42,7 +42,7 @@ npm install
 # Rode o projeto
 npm run dev
 A aplicação irá abrir em http://localhost:5173/ no seu navegador.
-
+````
 🤝 Contribuição:  
 Sinta-se à vontade para utilizar, melhorar e contribuir com este projeto. Toda sugestão é bem-vinda! 🚀
 
